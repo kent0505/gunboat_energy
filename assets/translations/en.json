@@ -1,0 +1,30 @@
+{   
+    "settings":"Settings",
+
+    "lang":"Language",
+
+    "tabText1":"Gunboat energy",
+    "tabText2":"Army damage",
+
+    "gunboatLvl":"Gunboat lvl:",
+    "destroyed":"Buildings destroyed:",
+
+    "moreStatues":"More statues",
+
+    "artillery":"Artillery",
+    "signal":"Flare",
+    "aptechka":"Medkit",
+    "shock":"Shock\nbomb",
+    "obstrel":"Barrage",
+    "dim":"Smoke\nscreen",
+    "kritteri":"Critters",
+    "brik":"Battle\norders",
+    "pult":"Universal\nremote",
+    "bullit":"Taunt",
+
+    "armyDamage":"Army damage:",
+    "damageSec":"Damage per second:",
+    "damageShot":"Damage per shot:",
+    "damage11":"Damage per 11 sec:",
+    "damageBrik":"With battle orders:"
+}
