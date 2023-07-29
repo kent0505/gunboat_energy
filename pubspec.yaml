@@ -1,4 +1,4 @@
-name: boombeach3
+name: gunboat_energy
 description: A new Flutter project.
 publish_to: "none"
 version: 1.0.3+4
@@ -8,7 +8,7 @@ dependencies:
   flutter:
     sdk: flutter
   cupertino_icons: ^1.0.2
-  #
+  ###
   provider: ^6.0.4
   easy_localization: ^3.0.1
   intl: 0.18.1
@@ -16,12 +16,11 @@ dependencies:
   dotted_border: ^2.0.0+2
   flutter_native_splash: ^2.2.16
   google_mobile_ads: ^2.3.0
-  #
+  ###
 flutter_native_splash:
   image: "assets/images/logo.png"
   color: "#ffffff"
   # flutter pub run flutter_native_splash:create
-
 dev_dependencies:
   flutter_test:
     sdk: flutter
